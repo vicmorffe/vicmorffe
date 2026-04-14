@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicmorffe&label=Profile%20views&color=0e75b6&style=flat" alt="vicmorffe" /> </p>
 
-- 🌱 I’m currently learning **data science**
+- 🌱 BI, AI & Automation ◦ Project Manager ◦ Lean Six Sigma Black Belt ◦ Scrum Master ◦
 
 - 📫 How to reach me **victoriamorffe@gmail.com**
 
